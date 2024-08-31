@@ -1,0 +1,23 @@
+{
+  "name": "taskcli",
+  "version": "1.0.0",
+  "description": "Task CLI is a simple command-line tool built with Node.js",
+  "main": "index.js",
+  "bin": {
+    "taskcli": "index.js"
+  },
+  "scripts": {
+    "start": "node index.mjs"
+  },
+  "type": "module",
+  "keywords": [
+    "cli",
+    "node",
+    "tasks"
+  ],
+  "author": "Ayushh Khare",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^12.1.0"
+  }
+}
