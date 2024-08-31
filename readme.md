@@ -9,9 +9,5 @@ Task CLI is a simple command-line tool built with Node.js that helps you manage 
 - **Delete Tasks:** Remove tasks by their unique ID.
 - **List Tasks:** Display all tasks with their details.
 
-## Installation
 
-To install Task CLI globally using npm:
 
-```bash
-npm install -g your-cli-name
